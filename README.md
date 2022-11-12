@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyanshsachan11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshsachan11" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshsachan11" alt="shreyanshsachan11" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<img align="right" alt="Coding" width="400" src="https://static.tumblr.com/8ed7ba8b0fdb91f92d7484df3c1c7b6a/xfa2wu8/lSzpryri4/tumblr_static_1223716207-content_2048_v2.gif">
 - 🔭 I’m currently working on **User Verification using React.**
 
 - 🌱 I’m currently learning **React Native and Data Structures**
