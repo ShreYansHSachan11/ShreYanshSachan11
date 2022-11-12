@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshsachan11" alt="shreyanshsachan11" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshsachan11&theme=buddhism" alt="shreyanshsachan11" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://pngimg.com/uploads/github/github_PNG93.png">
 - 🔭 I’m currently working on **User Verification using React.**
 
