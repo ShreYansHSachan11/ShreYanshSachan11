@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png)](https://ShreYanshSachan11.io)
+[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)](https://ShreYanshSachan11.io)
 <h1 align="center">Hi 👋, I'm ShreYansh Sachan</h1>
 <h3 align="center">A Web Developer currently working on FrontEnd.</h3>
 
