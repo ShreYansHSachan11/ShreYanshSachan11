@@ -6,6 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshsachan11&theme=buddhism" alt="shreyanshsachan11" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Animals/Mammals/Bears/panda/panda-bear-animated-gif-1.gif">
+<pre>                                                      </pre>
 - 🔭 I’m currently working on **User Verification using React.**
 
 - 🌱 I’m currently learning **React Native and Data Structures**
