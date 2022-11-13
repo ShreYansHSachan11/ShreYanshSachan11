@@ -8,9 +8,9 @@
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Animals/Mammals/Bears/panda/panda-bear-animated-gif-1.gif">
 <br>
 <br>
-- 🔭 I’m currently working on **User Verification using React.**
+- 🔭 I’m currently working on **User Verification using ReactJS**
 
-- 🌱 I’m currently learning **React Native and Data Structures**
+- 🌱 I’m currently learning **ReactJS and Data Structures**
 
 - 👯 I’m looking to collaborate on **React and C++.**
 
