@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" /> </p>   
 <h1 align="center">Hi 👋, I'm ShreYansh Sachan</h1>
-<h3 align="center">A Web Developer currently working on FrontEnd.</h3>
+<h3 align="center">Web Developer</h3>
 
 
 
