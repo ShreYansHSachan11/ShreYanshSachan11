@@ -57,5 +57,3 @@ I build fast, thoughtful React products. Right now that's real-time promotions a
 **Web:** React.js · Redux · Node.js · Express.js · FastAPI · Redis · Socket.io · REST · JWT · OAuth  
 **Data:** MySQL · MongoDB · Firebase · FAISS / ChromaDB  
 **AI:** OpenAI API · RAG pipelines
-
-<sub>The artwork is animated SVG generated from my portfolio's design system.</sub>
